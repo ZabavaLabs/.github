@@ -17,6 +17,6 @@
   We're always looking for ways to foster community growth and enhance educational content. Below are some initiatives that can help drive community engagement and learning. If you're interested or have ideas, feel free to approach us on our socials to discuss more!
 </p>
 
-<p>
+<p align="center">
 Refer to this repository for a list of ideas. https://github.com/ZabavaLabs/OpenContributions
 </p>
