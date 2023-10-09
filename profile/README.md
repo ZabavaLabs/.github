@@ -12,6 +12,11 @@
   <a href="https://linktr.ee/zabavalabs">Socials</a>
 </p>
 
+<h4 align="center">About Us</h4>
+<p align="center">
+  We're a blockchain tech company building various interesting products to drive Web3 user adoption.
+</p>
+
 <h4 align="center">Open Contributions</h4>
 <p align="center">
   We're always looking for ways to foster community growth and enhance educational content. Below are some initiatives that can help drive community engagement and learning. If you're interested or have ideas, feel free to approach us on our socials to discuss more!
